@@ -1,0 +1,13 @@
+html,
+body {
+    height : 100%;
+    padding: 0;
+    margin: 4;
+   font-family: "bold";
+    color: #4dd2ff;
+};
+.img-galeria { 
+    width: 210%;
+    length: 210%;
+    white-space: 50%;
+};
